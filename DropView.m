@@ -3,8 +3,8 @@
 //  MenuMe
 //
 //  Created by Brian Cooke on 4/28/09.
-//  Copyright 2009 roobasoft, LLC. All rights reserved.
-//
+//  Code based off drag and drop example code from 
+//  http://cocoadevcentral.com/articles/000056.php
 
 #import "DropView.h"
 
